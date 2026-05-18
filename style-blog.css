@@ -3,6 +3,10 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@1,400;1,600;1,700&family=Roboto:wght@300;500;600;700&display=swap">
 
 <style>
+    #header {
+        display:none;
+    }
+
     #content {
         display:block;
         width:100%;
